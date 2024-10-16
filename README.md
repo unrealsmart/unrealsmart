@@ -1,10 +1,11 @@
 👋 Hi, I’m @unrealsmart
 
 My technology stack: 
-- HTML\CSS\JavaScript
-- PHP\ThinkPHP\Laravel
-- Flutter\dart
-- Java\Kotlin
+- HTML,CSS,JavaScript,Angular,React,Vue
+- PHP,ThinkPHP,Laravel
+- Flutter,dart
+- Java,Kotlin
+- Python,Django,FastAPI
 
 I am studying UE5 and in the future, I will become an independent game developer!
 
